@@ -1,0 +1,118 @@
+<DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Formula 1</title>
+</head>
+<body>
+    <main>
+        <section id="container">
+            <!-- <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>Qual o GP mais conhecido da formula 1?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O Grande P<!rêmio de Mônaco é a mais tradicional e a mais importante prova do calendário da Fórmula 1.</p>
+                    </div>
+                </div>
+            </article> -->
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Qual corredor da formula 1 mais ganhou premios?
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        Lewis Hamilton, sete vezes campeão mundial.
+                    </div>
+                </div>
+            </article>
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Top 3 equipes mais famosas da formula 1?
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        1- Ferrari
+                        2- McLaren
+                        3- Mercedes
+                    </div>
+                </div>
+            </article>
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Qual piloto com mais corridas na f1
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                            Ferando Alondo 396 (corridas)
+                    </div>
+                </div>
+            </article>
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Quantas vezes Ayrton Senna foi campeão?
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        3 vezes ( em 88, 90 e 91)
+                    </div>
+                </div>
+            </article>
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Quantas vezes Charles Leclerc ganhou?
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        Seis vezes
+                    </div>
+                </div>
+            </article>
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Qual piloto mais conhecido da Ferrari?
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        Charles Leclerc
+                    </div>
+                </div>
+            </article>
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Qual é o piloto mais famoso do mundo?
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        Lewis Hamilton
+                    </div>
+                </div>
+            </article>
+            <article class="cartão"> 
+                <div class="cartao__conteudo">
+                    <h3>FÓRMULA 1</h3>
+                    <div class="cratao_conteudo_pergunta">
+                        Quais sao os pilotos que correrao para a ferrari em 2025?
+                    </div>
+                    <div class="cartao_conteudo_resposta">
+                        Charles Leclerc e Lewis Hamilton
+        </section>
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pela Alura, sem fins lucrativos</p>
+    </footer>
+    <script src="app.js"></script>
+    <script src="perguntas.js"></script>
+</body>
+</html>
